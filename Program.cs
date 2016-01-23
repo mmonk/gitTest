@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("somecode git");
             Console.ReadLine();
-            Console.WriteLine("hswrj git");
+            Console.WriteLine("3rd git");
         }
     }
 }
